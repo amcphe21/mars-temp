@@ -45,6 +45,10 @@ nav ul li:hover{
 	padding: 10px 15px;
 }
 
+nav ul li a:hover{
+	color:white;
+}
+
 nav ul li{
 	display: inline-block;
 	padding: 10px 15px;
