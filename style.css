@@ -43,11 +43,12 @@ nav ul{
 nav ul li:hover{
 	background-color: orange;
 	padding: 10px 15px;
+	color:white;
 }
 
-nav ul li a:hover{
-	color:inherit;
-}
+/*li a:hover{*/
+/*	color: white;*/
+/*}*/
 
 nav ul li{
 	display: inline-block;
