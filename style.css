@@ -41,6 +41,7 @@ nav ul{
 
 nav ul li:hover{
 	background-color: orange;
+	padding: 10px 15px;
 }
 
 nav ul li{
