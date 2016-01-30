@@ -33,7 +33,7 @@ nav ul{
 	color: white;
 	padding: 0;
 	text-align: center;
-	margin:0;
+	margin:30px 0px;
 	-webkit-transition: max-height 0.4s;
 	-mss-transition: max-height 0.4s;
 	-moz-transition: max-height 0.4s;
