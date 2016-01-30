@@ -13,6 +13,7 @@ header{
 	width: 100%;
 	padding: 40px 0;
 	text-align: right;
+	display: inline-block;
 }
 
 img{
