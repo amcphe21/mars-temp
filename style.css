@@ -46,7 +46,7 @@ nav ul li:hover{
 }
 
 nav ul li a:hover{
-	color:white;
+	color:inherit;
 }
 
 nav ul li{
