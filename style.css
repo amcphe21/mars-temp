@@ -58,6 +58,11 @@ section{
 	margin: 0 auto;
 }
 
+h1{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 2em;
+}
+
 .handle{
 	width: 100%;
 	background-color: #a3a3a3;
