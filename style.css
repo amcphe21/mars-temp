@@ -1,12 +1,12 @@
 
 
 body{
-	background: black;
+	background: #0d0d0d;
 	padding: 0;
 	margin:0;
 	font-family: sans-serif;
-	/*color: #666;*/
-	color: #0d0d0d;
+	color: #666;
+	
 }
 
 header{
