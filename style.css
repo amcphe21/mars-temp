@@ -41,9 +41,10 @@ nav ul{
 }
 
 nav ul li:hover{
-	background-color: #1a1a1a;
+	background-color: orange;
 	padding: 10px 15px;
 	color:white;
+	transition: all 0.3s ease 0s;
 }
 
 nav ul li{
