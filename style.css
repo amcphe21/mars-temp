@@ -41,7 +41,7 @@ nav ul{
 }
 
 nav ul li:hover{
-	background-color: black;
+	background-color: #1a1a1a;
 	padding: 10px 15px;
 	color:white;
 }
