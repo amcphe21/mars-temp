@@ -30,7 +30,7 @@ nav ul{
 	overflow: hidden; /* KEEPS FROM SPLLING OUT OF BOX*/
 	color: white;
 	padding: 0;
-	text-align: center;
+	/*text-align: center;*/
 	margin:30px 100px;
 	-webkit-transition: max-height 0.4s;
 	-mss-transition: max-height 0.4s;
